@@ -1,0 +1,15 @@
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\bin\Debug\LabBBDD.accdb
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\bin\Debug\PractLabBBDD.exe
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\bin\Debug\PractLabBBDD.pdb
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.formConferencia.resources
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.formCurriculum.resources
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.FormMain.resources
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.formDepartamento.resources
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.formInvestigador.resources
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.formArticulo.resources
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.Resources.resources
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.exe
+C:\Users\Basi\Documents\Visual Studio 2010\Projects\PractLabBBDDv2\PractLabBBDD\obj\x86\Debug\PractLabBBDD.pdb
